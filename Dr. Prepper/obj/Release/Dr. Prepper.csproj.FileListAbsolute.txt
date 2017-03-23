@@ -1,0 +1,9 @@
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\bin\Release\Dr.Prepper.exe.config
+\\dsjkb\desoft$\MSSharePoint\FilenamePrep\Dr.Prepper.exe.config
+\\dsjkb\desoft$\MSSharePoint\FilenamePrep\Dr.Prepper.exe
+\\dsjkb\desoft$\MSSharePoint\FilenamePrep\Dr.Prepper.pdb
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Release\Dr.Prepper.Form1.resources
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Release\Dr.Prepper.Properties.Resources.resources
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Release\Dr. Prepper.csproj.GenerateResource.Cache
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Release\Dr.Prepper.exe
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Release\Dr.Prepper.pdb

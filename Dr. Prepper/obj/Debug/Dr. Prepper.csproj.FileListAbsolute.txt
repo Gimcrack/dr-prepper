@@ -1,0 +1,9 @@
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\bin\Debug\Dr.Prepper.exe.config
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\bin\Debug\Dr.Prepper.exe
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\bin\Debug\Dr.Prepper.pdb
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Debug\Dr. Prepper.csprojResolveAssemblyReference.cache
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Debug\Dr.Prepper.Form1.resources
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Debug\Dr.Prepper.Properties.Resources.resources
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Debug\Dr. Prepper.csproj.GenerateResource.Cache
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Debug\Dr.Prepper.exe
+B:\Git Workspace\Windows Projects\Dr. Prepper\Dr. Prepper\obj\Debug\Dr.Prepper.pdb
